@@ -8,13 +8,13 @@ namespace Teste_Git {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine("Bom dia!");
+            Console.WriteLine("Bom dia! \n ------");
 
-            Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Como você está hoje?\n ------");
 
-            Console.WriteLine("Tenha um bom dia!");
+            Console.WriteLine("Tenha um bom dia!\n ------");
 
-            Console.WriteLine("Tchau!");
+            Console.WriteLine("Tchau!\n ------");
 
             Console.ReadLine();
 
