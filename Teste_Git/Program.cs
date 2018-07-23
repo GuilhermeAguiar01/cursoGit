@@ -12,6 +12,8 @@ namespace Teste_Git {
 
             Console.WriteLine("Bom dia!");
 
+            Console.WriteLine("Como você está hoje?");
+
             Console.ReadLine();
 
         }
