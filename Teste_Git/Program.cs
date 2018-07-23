@@ -10,6 +10,8 @@ namespace Teste_Git {
 
             Console.WriteLine("Teste GIT!");
 
+            Console.WriteLine("Bom dia!");
+
             Console.ReadLine();
 
         }
